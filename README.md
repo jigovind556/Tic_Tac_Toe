@@ -1,6 +1,6 @@
 # Tic Tac Toe
 
-![Tic Tac Toe](tic_tac_toe_screenshot.png)
+![Tic Tac Toe](tic_tac_toe_screenshot.jpg)
 
 ## Description
 Tic Tac Toe is a classic two-player game that can be played with a computer or with another player. The game is a Java Swing-based game with a simple user interface and easy-to-understand rules.
